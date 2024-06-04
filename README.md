@@ -27,4 +27,4 @@ SCL		        SCK
 SDA		        SDA
 
 
-![Bild](pic/wa.jpg)
+![Bild](pic/wa1.jpg)
