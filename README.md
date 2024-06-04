@@ -22,6 +22,12 @@ Die Stückliste für die Wasserqualitäts-Anzeige:
 
 
 
+![Bild](pic/wa2.png)
+
+
+
+
+
 
 ## Verdrahtung
 
