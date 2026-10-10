@@ -2,16 +2,14 @@
 
 <div align="center">
 
-|[:skull:ISSUE](https://github.com/frankyhub/Wasseranalyse/issues?q=is%3Aissue)|[:speech_balloon: Forum /Discussion](https://github.com/frankyhub/Wasseranalyse/discussions)|[:grey_question:WiKi](https://github.com/frankyhub/Wasseranalyse/wiki)||
+|[:skull:ISSUE](https://github.com/frankyhub/Paper-Circuit-BOT/issues?q=is%3Aissue)|[:speech_balloon: Forum /Discussion](https://github.com/frankyhub/Paper-Circuit-BOT/discussions)|[:grey_question:WiKi](https://github.com/frankyhub/Paper-Circuit-BOT/wiki)||
 |--|--|--|--|
 | | | | |
-|![Static Badge](https://img.shields.io/badge/RepoNr.:-%2033-blue)|<a href="https://github.com/frankyhub/Wasseranalyse/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/Wasseranalyse)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/Wasseranalyse)|<a href="https://github.com/frankyhub/Wasseranalyse/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/Wasseranalyse)|<a href="https://github.com/frankyhub/Wasseranalyse/releases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/Wasseranalyse)|
-|![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/Wasseranalyse)| <a href="https://github.com/frankyhub/Wasseranalyse/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/Wasseranalyse/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)|
+<a href="https://github.com/frankyhub/Paper-Circuit-BOT/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/Paper-Circuit-BOT)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/Paper-Circuit-BOT)|<a href="https://github.com/frankyhub/Paper-Circuit-BOT/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/Paper-Circuit-BOT)|<a href="https://github.com/frankyhub/Paper-Circuit-BOT/releases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/Paper-Circuit-BOT)|![Static Badge](https://img.shields.io/badge/RepoNr.:-%2033-blue)|
+|![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/Paper-Circuit-BOT)| <a href="https://github.com/frankyhub/Paper-Circuit-BOT/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/Paper-Circuit-BOT/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)||
+
+
 </div>
-
-
-
-
 
 # Wasseranalyse
 Wasseranalyse mit einem TDS-Sensor
@@ -35,7 +33,9 @@ Die Stückliste für die Wasserqualitäts-Anzeige:
 
 
 
-![Bild](pic/wa2.png)
+<img src="pic/wa2.png" width="500"> 
+<br> <br>
+
 
 #### Bild: TDS-Sensor
 
@@ -64,9 +64,8 @@ ESP32 - OLED Display 1,3":
 |  SDA	 |  SDA	  |
 | ---  | ---   |
 
-![Bild](pic/wa1.jpg)
-
-
+<img src="pic/wa1.jpg" width="500"> 
+<br> <br>
 
 ---
 
